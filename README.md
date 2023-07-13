@@ -1,7 +1,7 @@
 ![Header](https://github.com/NANA1207/NANA1207/assets/74752173/2980d6d8-9108-44e6-af8a-8cf639d9d7019)
 
 # Hola, Soy Noelia <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
-Soy una desarrolladora que le falta mucho por recorrer, pero doy todo lo mejor de mí en cada proyecto, siempre dispuesta a aprender más.
+Soy una desarrolladora que le falta mucho por recorrer, pero doy todo lo mejor de mí en cada proyecto, siempre dispuesta a aprender más. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> 
 
 - 🌱 I’m currently learning React, Angular
 - 📫 You can reach me:
@@ -41,6 +41,20 @@ Soy una desarrolladora que le falta mucho por recorrer, pero doy todo lo mejor d
 </p>
 
 
+                          
+                                                                /^\ ________/^\
+                                                               ,°             °,
+                                                              /  \   ¬     ¬  /  \
+                                                             |— ჻     ˄   ˄    ჻— |
+                                                              \__/_____~~____\__ /
+                                                               |_______O________|
+                                         -_--_--_--_--_        _--_--_       _--_--_     -_--_--_--_--_
+                                         -- _--_--_--_--_        --_--_--_--_--_--       -_--_--_--_--
+                                         --_--       -- _--         --_--_--_--          -_--_
+                                         --_--_--_--_-_              --_--_--	     -_--_--_--_--_
+                                         --_--        --_--          --_--_--	     -_--_-- -- -- -
+                                         --_--       --_--	         --_--_--            -_-- _ _ _ _ 
+                            	      _--_--_--_--_--	         --_--_--            -_--_--_--_--
 
 
 
