@@ -40,6 +40,7 @@ Soy una desarrolladora que le falta mucho por recorrer, pero doy todo lo mejor d
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANA1207&layout=compact" />
 </p>
 
+<hr>
 
                           
                                                                 /^\ ________/^\
