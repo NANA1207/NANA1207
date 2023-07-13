@@ -1,11 +1,11 @@
+![Header](https://github.com/NANA1207/NANA1207/assets/74752173/2980d6d8-9108-44e6-af8a-8cf639d9d7019)
 ### Hi there 👋
-
 <!--
 **NANA1207/NANA1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
