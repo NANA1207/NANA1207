@@ -1,4 +1,4 @@
-![Header](https://github.com/NANA1207/NANA1207/assets/74752173/2980d6d8-9108-44e6-af8a-8cf639d9d7019)
+![Header](https://github.com/user-attachments/assets/e20c12db-3f49-40ab-920a-f31ba7d68a50)
 
 # Hola, Soy Noelia <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 Hola, mi nombre es Noelia Núñez, Ingeniera en software, aunque no me guste mucho la programación hay varias ramas del desarrollo de software que me apasionan como la usabilidad y el testeo, siendo así mi meta el entregar productos de software de calidad y amigables con el usuario.
