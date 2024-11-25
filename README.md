@@ -6,12 +6,16 @@ Hola, mi nombre es Noelia Núñez, Ingeniera en software, aunque no me guste muc
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> 
 
 - 🌱 Actualmente estoy aprendiendo sobre pruebas de rendimiento
+- :bookmark_tabs: Algunos reportes de errores hechos como práctica los puedes encontrar
+[aquí](https://drive.google.com/drive/folders/1QkCIX41mnSHTha3f-lPXi_umKwEkvyeC?usp=sharing)
+.
+
 - 📫 ¿Quieres contactarme?
   <br/>
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-nunez-arroba)
-[![LinkedIn](https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abitanunez3101@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abitanunez3101@gmail.com)
 
 
 <hr>
